@@ -26,4 +26,3 @@ Para usar este componente de rodapé, inclua o arquivo `styles.css` no seu docum
 
 Sinta-se à vontade para contribuir com este projeto, adicionando novas funcionalidades ou melhorando os componentes existentes. Por favor, certifique-se de seguir os padrões e diretrizes de codificação do projeto.
 
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
