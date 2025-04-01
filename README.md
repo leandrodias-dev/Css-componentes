@@ -8,9 +8,9 @@ Este diretório contém o terceiro componente de rodapé do projeto de component
 
 ## Caraterísticas
 
-- Design responsivo**: O rodapé adapta-se a diferentes tamanhos de ecrã, garantindo uma experiência de utilizador consistente em todos os dispositivos.
-- Layout em grade**: Utiliza CSS Grid para gestão de layout, permitindo uma disposição flexível dos elementos do rodapé.
-- Estilos personalizáveis**: O CSS pode ser facilmente modificado para se adequar aos requisitos de design do seu projeto.
+- **Design responsivo**: O rodapé adapta-se a diferentes tamanhos de ecrã, garantindo uma experiência de utilizador consistente em todos os dispositivos.
+- **Layout em grade**: Utiliza CSS Grid para gestão de layout, permitindo uma disposição flexível dos elementos do rodapé.
+- **Estilos personalizáveis**: O CSS pode ser facilmente modificado para se adequar aos requisitos de design do seu projeto.
 
 ## Utilização
 
